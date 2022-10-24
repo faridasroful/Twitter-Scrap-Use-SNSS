@@ -33,13 +33,14 @@
 
 *  Scrapping dan Clustering data Twitter dengan keyword "Ijazah Palsu Jokowi " dan durasi pencarian dari tanggal 2022–10–3 sampai 2022–10–25
 *  Hasil dari diagram "Kata-Kata yang Sering Muncul - TOP 2O"
-![image](https://user-images.githubusercontent.com/74556111/197601552-88dadcdb-1db4-4526-9ae8-6c737b275f0e.png)
+![TOP 20 kata-kata yang sering muncul](https://user-images.githubusercontent.com/74556111/197602249-7b376089-7b3b-4f59-8c73-2490d2512b03.png)
 
 *  Hasil dari diagram "Dendogram Single Linkage"
-![image](https://user-images.githubusercontent.com/74556111/197601639-1b753852-85d3-4976-9656-7078b93a8802.png)
+![Dendogram Single Linkage](https://user-images.githubusercontent.com/74556111/197602380-85d129ab-d177-4a31-8667-8025580873bc.png)
 
 * Hasil dari diagram "Dendogram Ward's Method"
-![image](https://user-images.githubusercontent.com/74556111/197601706-f7f68f8a-6bc6-471a-82aa-ba86a361da1f.png)
+![Dendogram Ward's Method](https://user-images.githubusercontent.com/74556111/197602429-063ad69f-4e6d-467d-89bd-ac280de27d3f.png)
 
 * Hasil dari diagram "Dendogram Average Linkage"
-![image](https://user-images.githubusercontent.com/74556111/197601782-e6a55ba4-6670-4966-9733-28bcf9465273.png)
+![Dendogram Average Linkage](https://user-images.githubusercontent.com/74556111/197602478-637eef8f-8d91-4afc-bf2e-9b32833990e9.png)
+
