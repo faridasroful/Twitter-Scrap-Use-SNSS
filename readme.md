@@ -31,15 +31,15 @@
 </b>
 
 
-*  Scrapping dan Clustering data Twitter dengan keyword "Jakarta Marathon" dan durasi pencarian dari tanggal 2022–10–15 sampai 2022–10–17
+*  Scrapping dan Clustering data Twitter dengan keyword "Ijazah Palsu Jokowi " dan durasi pencarian dari tanggal 2022–10–3 sampai 2022–10–25
 *  Hasil dari diagram "Kata-Kata yang Sering Muncul - TOP 2O"
-![TOP 20 kata-kata yang sering muncul](https://user-images.githubusercontent.com/74556111/196181579-052e6c4e-4c45-42b7-8dee-5863ff6b1794.png)
+![image](https://user-images.githubusercontent.com/74556111/197601552-88dadcdb-1db4-4526-9ae8-6c737b275f0e.png)
 
 *  Hasil dari diagram "Dendogram Single Linkage"
-![Dendogram Single Linkage](https://user-images.githubusercontent.com/74556111/196181810-8d9a861c-984c-44da-8101-5e33da6b4c6d.png)
+![image](https://user-images.githubusercontent.com/74556111/197601639-1b753852-85d3-4976-9656-7078b93a8802.png)
 
 * Hasil dari diagram "Dendogram Ward's Method"
-![Dendogram Ward's Method](https://user-images.githubusercontent.com/74556111/196182296-b4105d0e-15e0-49ac-b2e6-c0baab0e2e47.png)
+![image](https://user-images.githubusercontent.com/74556111/197601706-f7f68f8a-6bc6-471a-82aa-ba86a361da1f.png)
 
 * Hasil dari diagram "Dendogram Average Linkage"
-![Dendogram Average Linkage](https://user-images.githubusercontent.com/74556111/196182003-6911e06a-6240-4100-9df6-94dae2b1522e.png)
+![image](https://user-images.githubusercontent.com/74556111/197601782-e6a55ba4-6670-4966-9733-28bcf9465273.png)
